@@ -1,6 +1,6 @@
 # week-9_ReadME_File
 
-Dynamically created read me file using javascript and Node.js Inquirer package
+Dynamically created read me file using javascript and Node.js Inquirer package. Code uses markdown to dynamically create content.
 
 ## About
 
